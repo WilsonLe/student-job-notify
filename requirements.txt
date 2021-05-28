@@ -1,0 +1,6 @@
+selenium
+python-dotenv
+pymongopymongo==3.11.4
+python-dotenv==0.17.1
+selenium==3.141.0
+urllib3==1.26.5
